@@ -1,0 +1,85 @@
+result_num=1, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=2000, seed=7, energy=-883.9440849792883
+result_num=2, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=2000, seed=7, num_reads=3, energy=-
+40849792883
+result_num=3, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=25000, seed=127, num_reads=3, energy=-884.0586300512613
+result_num=4, solver=<class 'dwave.samplers.greedy.sampler.SteepestDescentSolver'>, seed=127, num_reads=3, large_sparse_opt=False, energy=-883.495897917729
+result_num=5, solver=<class 'dwave.samplers.greedy.sampler.SteepestDescentSolver'>, seed=127, num_reads=3, large_sparse_opt=True, energy=-883.495897917729
+result_num=6, solver=<class 'dwave.samplers.greedy.sampler.SteepestDescentSolver'>, seed=65, num_reads=5, large_sparse_opt=True, energy=-884.1012617671686
+result_num=7, solver=<class 'dwave.samplers.random.sampler.RandomSampler'>, seed=65, num_reads=5, energy=5902.494929350446
+result_num=8, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=65, num_reads=1, energy=-885.9476122552687
+result_num=9, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=55, num_reads=5, energy=-886.1398066289939
+result_num=10, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=45, num_reads=1, num_sweeps=10000, energy=-886.4035093950324
+result_num=11, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=45, num_reads=3, num_sweeps=30000, energy=-886.7987457763384
+result_num=12, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=45, num_reads=1, num_sweeps=100000, energy=-886.6721696685863
+result_num=13, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=68, num_reads=10, num_sweeps=10000, energy=-886.6377281589912
+result_num=14, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=3, num_reads=1, num_sweeps=500000, energy=-886.6969732538755
+
+result_num=15, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=3, num_reads=1, num_sweeps=1000, energy=-19613133.87876801
+result_num=16, solver=<class 'dwave.samplers.random.sampler.RandomSampler'>, seed=3, num_reads=5, energy=-16383483.800716385
+result_num=17, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=20, seed=3, num_reads=5, energy=-16818641.77050072
+result_num=18, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=200, seed=65, num_reads=3, energy=-19058911.7537193
+result_num=19, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=2000, seed=64, num_reads=3, energy=-19367517.665654503
+result_num=20, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=10000, seed=65, num_reads=2, energy=-19269628.665461462
+result_num=21, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=65, num_reads=2, num_sweeps=5000, energy=-19613711.273667194
+result_num=22, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=64, num_reads=2, num_sweeps=10000, energy=-19704693.613681965
+result_num=23, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=64, num_reads=2, num_sweeps=50000, energy=-19636657.985586442
+result_num=24, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=3, num_reads=3, num_sweeps=1000, num_sweeps_per_beta=2, energy=-19590365.269667182
+result_num=25, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=3, num_reads=3, num_sweeps=1000, num_sweeps_per_beta=5, energy=-19590492.37542082
+result_num=26, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=3, num_reads=3, num_sweeps=5000, num_sweeps_per_beta=5, energy=-19659098.86272511
+
+result_num=27, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=52, num_reads=10, num_sweeps=1000, energy=9583.579485595226
+result_num=28, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=52, num_reads=3, num_sweeps=10000, energy=7520.600166261196
+result_num=29, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=2500, seed=52, num_reads=3, energy=-5077817.283843479
+result_num=30, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=53, num_reads=2, num_sweeps=100000, energy=6492.816008806229
+result_num=31, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=60000, seed=55, num_reads=2, energy=-5077826.611715022
+
+result_num=32, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=2500, seed=55, num_reads=5, energy=-5085455.267591679
+result_num=33, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=2500, seed=55, num_reads=5, energy=53.37683848198503
+result_num=34, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=4000, seed=56, num_reads=100, energy=53.561650870367885
+result_num=35, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=20000, seed=56, num_reads=3, energy=57.202338265255094
+result_num=36, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=3500, seed=55, num_reads=5, energy=53.37683848198503
+result_num=37, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=55, num_reads=5, num_sweeps=20, energy=5109187.403899372
+result_num=38, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=55, num_reads=5, num_sweeps=1000, energy=5097586.281546533
+result_num=39, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=3000, seed=16, num_reads=5, energy=60.95905739068985
+result_num=40, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=1000, seed=55, num_reads=5, energy=103.59838562086225
+result_num=41, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=3500, seed=15, num_reads=75, energy=55.523552562110126
+result_num=42, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=3500, seed=44, num_reads=75, energy=55.3944724239409
+result_num=43, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=3500, seed=55, num_reads=75, energy=53.37683848198503
+result_num=44, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=3500, seed=66, num_reads=75, energy=57.49923066049814
+result_num=45, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=3500, seed=77, num_reads=75, energy=57.35917312372476
+result_num=46, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=3500, seed=88, num_reads=75, energy=54.631569190882146
+result_num=47, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=3500, seed=99, num_reads=75, energy=57.04945582896471
+result_num=48, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=2500, seed=99, num_reads=2000, energy=51.01280484162271
+result_num=49, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=1800000, seed=99, num_reads=3, energy=53.03134479187429
+
+result_num=50, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=2000, seed=99, num_reads=5, energy=-893.9764442451051
+result_num=51, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=20000, seed=99, num_reads=2, energy=-893.9764442451051
+result_num=52, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=200, seed=99, num_reads=100, energy=-893.9764442451051
+result_num=53, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=1000, seed=55, num_reads=60, energy=-894.0239760445256
+result_num=54, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=2000, seed=55, num_reads=20, energy=-894.0239760445256
+result_num=55, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=2000, seed=66, num_reads=100, energy=-894.0253322345379
+result_num=56, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=200, seed=66, num_reads=1000, energy=-893.9764442451051
+result_num=57, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=77, num_reads=2, num_sweeps=1000, energy=-894.4589251818124
+result_num=58, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=77, num_reads=50, num_sweeps=1000, energy=-894.6426467395577
+result_num=59, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=77, num_reads=2, num_sweeps=10000, energy=-894.7082679128362
+result_num=60, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=77, num_reads=2, num_sweeps=50000, energy=-894.7501117781376
+result_num=61, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=77, num_reads=50, num_sweeps=5000, energy=-894.7395790848896
+result_num=62, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=99, num_reads=10, num_sweeps=10000, energy=-894.6451209980896
+result_num=63, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=99, num_reads=1, num_sweeps=100000, energy=-894.6499226995311
+result_num=64, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=24, num_reads=1, num_sweeps=300000, energy=-894.717588947673
+result_num=65, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=24, num_reads=1, num_sweeps=2000000, energy=-894.87010351559
+
+result_num=66, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=33, num_reads=1, num_sweeps=300000, energy=-4564915.7506210655
+result_num=67, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=33, num_reads=100, num_sweeps=2000, energy=-4564298.4563211575
+result_num=68, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=2000, seed=33, num_reads=20, energy=-6778826.202210035
+result_num=69, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=60000, seed=150, num_reads=2, energy=-6778826.451438833
+result_num=70, solver=<class 'dwave.samplers.tabu.sampler.TabuSampler'>, timeout=2000, seed=155, num_reads=100, energy=-6778826.220993469
+result_num=71, solver=<class 'dwave.samplers.sa.sampler.SimulatedAnnealingSampler'>, seed=156, num_reads=1, num_sweeps=1500000, energy=-4565016.297078624
+73, energy=-898.6533755814612
+74, energy=-995155.250846426
+75, energy=-994695.3419645829
+76, energy=-118634.81396208773
+
+78, cqm: energy=-820.1422109999995
+79, cqm: energy=-821.9773589999994
+80, cqm: energy=-821.149046
